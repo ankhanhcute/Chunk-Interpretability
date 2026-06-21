@@ -1,4 +1,9 @@
+"""
+Minimal local baseline for the RNN error-correction experiment.
 
+This is not the original RNN_util.py from the repository.
+It was created to test the experiment structure while the missing helper file is unresolved.
+"""
 import random
 import numpy as np
 import torch
